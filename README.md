@@ -1,12 +1,16 @@
 # Glories to GOD 🙏
 
-Hi there 👋
-
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://indoanalytica.com/static/images/data-science-5.gif)">
-
-
-I am **Franz Kingstein N**, currently studying Artificial Intelligence and Data Science. 
-I am passionate about exploring the vast field of AI and its applications.
+<table>
+  <tr>
+    <td>
+      Hi there 👋<br><br>
+      I am Franz Kingstein N, currently studying Artificial Intelligence and Data Science. I am passionate about exploring the vast field of AI and its applications.
+    </td>
+    <td>
+      <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
+    </td>
+  </tr>
+</table>
 
 ## 🌱 Currently Learning
 - **MySQL**
@@ -35,6 +39,8 @@ I am passionate about exploring the vast field of AI and its applications.
 
 ## ⚡ Fun Fact
 - I know some music.
+
+
 
                             
                                                                                                              
