@@ -14,6 +14,9 @@
 
 ## 🌱 Currently Learning
 - **MySQL**
+- **TABLEAU**
+- **DATA** **STRUCTURE**
+- **JAVA**
 
 ## 💼 Skills
 - **Deep Learning:** CNN, YOLO, SVMs, RNN, Random Forest
