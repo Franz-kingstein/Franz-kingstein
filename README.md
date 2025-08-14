@@ -35,7 +35,7 @@
 
 ## 📫 How to Reach Me
 - **Email:** franzkingstein@gmail.com
-- **LinkedIn:** [Franz Kingstein](https://www.linkedin.com/in/franz-kingstein/)
+- **LinkedIn:** [Franz Kingstein](www.linkedin.com/in/franz-kingstein7)
 
 ## 😄 Pronouns
 - Data Scientist
