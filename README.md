@@ -110,9 +110,42 @@ This is **Franz Kingstein N** featuring as:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Franz-kingstein&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Franz-kingstein&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Franz-kingstein&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<br /><br />
+
+![](https://streak-stats.demolab.com/?user=Franz-kingstein&theme=tokyonight&hide_border=false)
+<br /><br />
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Franz-kingstein&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br /><br />
+<hr />
+<br />
+
+<table>
+  <tr>
+    <td>
+      <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Franz-kingstein&theme=tokyonight"/>
+    </td>
+    <td>
+      <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franz-kingstein&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
+<br /><br />
+
+<table>
+  <tr>
+    <td width="430">
+      <img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franz-kingstein&theme=tokyonight"/>
+    </td>
+    <td width="430">
+      <img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Franz-kingstein&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/lines/divider_data_flow.svg" width="100%">
