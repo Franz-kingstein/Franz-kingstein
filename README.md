@@ -1,16 +1,8 @@
 # Glories to GOD 🙏
 
-<table>
-  <tr>
-    <td>
-      Hi there 👋<br><br>
-      I am Franz Kingstein N, currently studying Artificial Intelligence and Data Science. I am passionate about exploring the vast field of AI and its applications.
-    </td>
-    <td>
-      <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./STATIC_LOCKED_FRAME_USE_THE_E-ezgif.com-optimize.gif" alt="Franz Kingstein Banner" width="100%" />
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on **AI Agents, Generative AI applications, and scalable full-stack solutions**<br><br>👯 I’m looking to collaborate on **innovative AI, Computer Vision, and GenAI projects that solve real-world problems**<br><br>🤝 I’m looking for help with **advanced MLOps, distributed AI systems, and research in Generative AI**<br><br>🌱 I’m currently learning **Diffusion Models and advanced Multi-Agent Systems**<br><br>💬 Ask me about **Machine Learning, Artificial Intelligence, Full-Stack Development, Data Science, Computer Vision, and MLOps**<br><br>⚡ Fun fact: **I've built projects spanning AI, IoT, Full-Stack, Automation, and Cloud — from autonomous drones to enterprise banking systems!**
