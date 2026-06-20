@@ -1,4 +1,4 @@
-# Glories to GOD 🙏
+# Glories to GOD 
 
 <p align="center">
   <img src="./STATIC_LOCKED_FRAME_USE_THE_E-ezgif.com-optimize.gif" alt="Franz Kingstein Banner" width="100%" />
