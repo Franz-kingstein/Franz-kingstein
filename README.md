@@ -151,12 +151,13 @@ This is **Franz Kingstein N** featuring as:
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/lines/divider_data_flow.svg" width="100%">
 </p>
 
-
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-kingstein7) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://medium.com/@franzkingstein) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:franzkingstein@gmail.com) 
+<p align="left">
+  <a href="https://linkedin.com/in/franz-kingstein7" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-👋%20Connect-00F2FE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@franzkingstein" target="_blank">    <img src="https://img.shields.io/badge/Medium-📖%20Read-BF94FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" alt="Medium" />  </a>&nbsp;&nbsp;
+  <a href="mailto:franzkingstein@gmail.com" target="_blank">    <img src="https://img.shields.io/badge/Email-📬%20Contact-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/lines/divider_moving_neon_gradient.svg" width="100%">
